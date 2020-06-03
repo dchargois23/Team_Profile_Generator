@@ -1,1 +1,2 @@
-# Team_Profile_Generator
+# Team-Profile-Generator
+Team Profile Generator

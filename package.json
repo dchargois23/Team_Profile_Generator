@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profilr Generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchargois23/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchargois23/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/dchargois23/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
